@@ -1,1 +1,1 @@
-# Applying Language-Integrated-Query-LINQ Course at Metigator Youtube Channel
+# Applying Language Integrated-Query LINQ Course at Metigator Youtube Channel
