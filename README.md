@@ -1,1 +1,1 @@
-# [03] - Language Integrated Query - LINQ  الاستعلامات المتكاملة
+# Applying Language-Integrated-Query-LINQ Course at Metigator Youtube Channel
